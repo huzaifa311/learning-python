@@ -1,0 +1,1 @@
+I am creating and writing text through python write mode to check if it is created and writing or not
